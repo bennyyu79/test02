@@ -4,7 +4,7 @@
 
 - **项目名称**: test02
 - **创建时间**: 2026-03-25
-- **目录路径**: /Users/bennyyu/base/work/ido/ML/base/claude/kanban/.vibe-kanban-workspaces/d953-githhub/test02
+- **目录路径**: /Users/bennyyu/base/work/ido/ML/base/vibe-kanban/test02
 
 ## 目录结构
 
